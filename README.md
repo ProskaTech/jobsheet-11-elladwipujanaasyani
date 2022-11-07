@@ -1,5 +1,8 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+1. //Created by 21343022_Ella Dwipujana Asyani
+2. Latihan1Inheritance merupakan file project yang memiliki 3 class yaitu class Pertama.java, Kedua.java, dan TestPertamaKedua.java
+3. Latiahn2_Inheritance merupakan file projec yang memiliki 3 class yaitu class Person.java, Employ.java, dan KonstruktorSuperKelas.java 
+4. Latihan3_Inheritance merupakan file project yang memiliki 2 class yaitu class Hewan.java dan Gajah.java
+5. Latihan4_Inheritance merupakan file project yang memiliki 3 class yaitu class A.java, B.java dan DemoOverride2.java 
+6. Latihan5_Encapsulation merupakan file project yang memiliki 2 class yaitu Bus.java, dan UjiBus.java
+7. Latihan6_Encapsulation merupakan file project yang memiliki 2 class yaitu Bus2.java dan UjiBus2.java
+8. File Screenshot 11 merupakan file dokumentasi hasil running project.
